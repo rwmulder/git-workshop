@@ -1,2 +1,2 @@
-print("science is awesome")
+print("science is troublesome")
 
